@@ -29,3 +29,14 @@ public class sortGivenArrays_inOrder_usingScanner {
 	}
 
 }
+
+
+Output: 
+Give some restuarant names: 
+Charles
+Biryani
+AppleBees
+Jack in box
+MCD
+Biryani bowl
+[Biryani bowl, Charles, Jack in box, Biryani, AppleBees, MCD]
