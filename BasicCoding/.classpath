@@ -8,5 +8,16 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/Ashwini/OneDrive/Documents/Aswini Software Tools/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.1.jre8.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Ashwini/OneDrive/Documents/Aswini Software Tools/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.1.jre11.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Ashwini/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0.jar" sourcepath="C:/Users/Ashwini/.m2/repository/org/testng/testng/7.8.0/testng-7.8.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.groupId" value="org.testng"/>
+			<attribute name="maven.artifactId" value="testng"/>
+			<attribute name="maven.version" value="7.8.0"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

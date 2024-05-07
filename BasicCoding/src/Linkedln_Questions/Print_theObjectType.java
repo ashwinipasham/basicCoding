@@ -13,7 +13,7 @@ public class Print_theObjectType {
 		double weight = 60;
 		double height = 5.0; 
 		
-		System.out.println("I'm " + Name + "," + age +  " from " + City + " with" + height + ", weighing " + weight +  " kgs ");
+		System.out.println("I'm " + Name + "," + age +  " from " + City + " with " + height + ", weighing " + weight +  " kgs ");
 
 		System.out.println(weight);
 	}

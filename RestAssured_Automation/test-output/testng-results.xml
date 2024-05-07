@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[==========Browser session Started==========]]>
+    </line>
+    <line>
+      <![CDATA[========Application Started======]]>
+    </line>
+    <line>
+      <![CDATA[==========Browser session end======]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-01T14:32:01 PDT" name="Default suite" finished-at="2024-05-01T14:32:26 PDT" duration-ms="24957">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T14:32:01 PDT" name="Default test" finished-at="2024-05-01T14:32:26 PDT" duration-ms="24957">
+      <class name="SeleniumPractice.imagesList">
+        <test-method is-config="true" signature="setupApplication()[pri:0, instance:SeleniumPractice.imagesList@1ed6388a]" started-at="2024-05-01T14:32:01 PDT" name="setupApplication" finished-at="2024-05-01T14:32:04 PDT" duration-ms="3080" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==========Browser session Started==========]]>
+            </line>
+            <line>
+              <![CDATA[========Application Started======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupApplication -->
+        <test-method signature="totalImages()[pri:0, instance:SeleniumPractice.imagesList@1ed6388a]" started-at="2024-05-01T14:32:04 PDT" name="totalImages" finished-at="2024-05-01T14:32:26 PDT" duration-ms="21703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalImages -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:SeleniumPractice.imagesList@1ed6388a]" started-at="2024-05-01T14:32:26 PDT" name="closeApplication" finished-at="2024-05-01T14:32:26 PDT" duration-ms="120" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==========Browser session end======]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- SeleniumPractice.imagesList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

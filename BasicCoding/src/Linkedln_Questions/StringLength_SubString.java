@@ -2,7 +2,7 @@ package Linkedln_Questions;
 
 public class StringLength_SubString {
 	
-	//1)Find the length of the below variables and using string slicing, extract and print the substring 'Biomedical' from string 1 and 'I 501' from string Biomedical Informatics Informatics 501 
+	//1)Find the length of the below variables and using string slicing, extract and print the substring 'Biomedical' from string 1 and 'I 501' from string Biomedical Informatics 501 
 
 
 	public static void main(String[] args) {
